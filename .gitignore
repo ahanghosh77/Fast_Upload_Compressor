@@ -1,0 +1,16 @@
+# Source code - DO NOT upload to GitHub (keep private)
+YT_Fast_Upload_Compressor.bat
+
+# Video files
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+*.flv
+*.webm
+
+# System files
+Thumbs.db
+desktop.ini
+.DS_Store
